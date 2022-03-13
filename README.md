@@ -1,5 +1,7 @@
 # Hi there, I'm Gabriel! 😄
 
+<img src="me.png" width="256">
+
 ## 🧔🏻 About me
 
 With professional experience in three different global cities, Gabriel is a keen young man based in São Paulo who's spirited about software development.
