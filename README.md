@@ -6,7 +6,7 @@
 
 With professional experience in three different global cities, Gabriel is a keen young man based in São Paulo who's spirited about software development.
 
-Currently, I'm working at Agile Engine as a software engineer. You can check my LinkedIn profile <a href="https://www.linkedin.com/in/gabrielvsantana/">here</a>. You can also email me <a href="mailto:gabrielsantana.it@gmail.com">here</a>.
+Currently, I'm working as a software engineer at [AgileEngine](https://agileengine.com/). You can check my LinkedIn profile [here](https://www.linkedin.com/in/gabrielvsantana/). You can also email me [here](mailto:gabrielsantana.it@gmail.com).
 
 Fun fact: I speak fluently three languages (🇧🇷|🇬🇧|🇦🇷), apart from being a musician and a real lover of the seventh art. 🎬
 
